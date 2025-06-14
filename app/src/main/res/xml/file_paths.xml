@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Existing external files path (e.g., SharedFastNotes) -->
+    <external-files-path
+        name="my_images"
+        path="." />
+
+    <!-- Add access to cache directory (for zip sharing) -->
+    <cache-path
+        name="cache"
+        path="." />
+
+</paths>
